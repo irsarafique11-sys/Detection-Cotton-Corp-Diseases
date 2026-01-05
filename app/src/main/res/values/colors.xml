@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#2D5A27</color> <!-- Forest Green -->
+    <color name="primary_light">#5E8D5B</color>
+    <color name="primary_dark">#003000</color>
+    
+    <color name="secondary">#81C784</color> <!-- Soft Leaf Green -->
+    <color name="secondary_light">#B2FAB4</color>
+    <color name="secondary_dark">#519657</color>
+
+    <color name="background">#F1F8E9</color> <!-- Very Light Green/White -->
+    <color name="surface">#FFFFFF</color>
+    
+    <color name="error">#B00020</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <color name="text_primary">#1B5E20</color>
+    <color name="text_secondary">#4E7E52</color>
+
+    <!-- Compatibility names if needed -->
+    <color name="purple_200">#81C784</color>
+    <color name="purple_500">#2D5A27</color>
+    <color name="purple_700">#003000</color>
+    <color name="teal_200">#B2FAB4</color>
+    <color name="teal_700">#519657</color>
+</resources>
