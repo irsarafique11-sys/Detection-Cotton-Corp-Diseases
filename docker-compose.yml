@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  android-build:
+    build: .
+    volumes:
+      - ./output:/app/app/build/outputs/apk
+    command: ./gradlew assembleDebug
